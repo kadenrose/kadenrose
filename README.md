@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <hr>
 <h3>Contact me</h3>
 <p>Phone ~ <a href="tel:4805500993">(480) 550-0993</a><br>
-Email ~ kaden.db.rose@gmail.com<br>
+Email ~ <a href="mailto:kaden.db.rose@gmail.com">kaden.db.rose@gmail.com</a><br>
 CodePen ~ @kadenrose<br>
 <a href="google.com">fart</a></p>
