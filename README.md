@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <hr>
 <h3>Contact me</h3>
 <p>Phone ~ <a href="tel:4805500993">(480) 550-0993</a><br>
-Email ~ kaden.db.rose@gmail.com</p>
+Email  ~ kaden.db.rose@gmail.com</p>
