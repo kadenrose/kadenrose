@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hello world!</h1>
+<p>Hello, I am Kaden Rose! I am going to school at Arizona State University - Polytechnic. Learning how to code and wanting to be a developer someday! <br> Jesus is the Savior of the world!</p>
