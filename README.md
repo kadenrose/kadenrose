@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <p>Hello, I am Kaden Rose! I am going to school at Arizona State University - Polytechnic. Learning how to code and wanting to be a developer someday! <br> Jesus is the Savior of the world!</p>
 <hr>
 <h2>Contact me</h2>
-<p>Phone ~ <a href="tel:+14805500993">(480) 550-0993</a><br>
-Email 
+<p>Phone ~ <a href="tel:4805500993">(480) 550-0993</a><br>
+Email ~ kaden.db.rose@gmail.com</p>
