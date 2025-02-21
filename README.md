@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hello world!</h1>
-<p>Hello, I am Kaden Rose! I am going to school at Arizona State University - Polytechnic. Learning how to code and wanting to be a web developer someday! I love baseball and working on cars.<br> Jesus is the Savior of the world!</p>
+<p>Hello, I am Kaden Rose! I am going to school at Arizona State University - Polytechnic. Learning how to code and wanting to be a frontend dev someday! I love baseball, working on cars, and coding!</p>
 <hr>
 <h3>Contact me</h3>
 <p>Phone ~ <a href="tel:4805500993">(480) 550-0993</a><br>
