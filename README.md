@@ -40,7 +40,7 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 <!-- -  [Portfolio Website](https://[your-portfolio-link].com)  -->
 -  [LinkedIn](https://www.linkedin.com/in/kadenrose/)  
 -  [Email Me](mailto:kaden.db.rose@gmail.com)
--  [Text Me](tel:4805500993)
+-  [Text Me] (480)550-0993
 
 ---
 
