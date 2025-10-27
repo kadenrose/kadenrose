@@ -16,8 +16,8 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 **Languages:** HTML5, CSS3, JavaScript (ES6+)
 **Frameworks:** & Libraries: Bootstrap 
-**Tools:** GitHub, VS Code, Adobe Creative Cloud]  
-**Workflow:** [e.g. Responsive Design • Version Control • Accessibility-First Development]
+**Tools:** GitHub, VS Code, Adobe Creative Cloud] 
+<!-- **Workflow:** [e.g. Responsive Design • Version Control • Accessibility-First Development] -->
 
 ---
 
@@ -40,10 +40,10 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 <!-- -  [Portfolio Website](https://[your-portfolio-link].com)  -->
 -  [LinkedIn](https://www.linkedin.com/in/kadenrose/)  
 -  [Email Me](mailto:kaden.db.rose@gmail.com)
--  [Text Me] (480)550-0993
+-  Text Me! (480)550-0993
 
 ---
 
-> “”
+> “The growing good of the world is partly dependent on unhistoric acts upon the impact of those who live faithfully a hidden life, and rest in unvisited tombs.”
 
 ---
