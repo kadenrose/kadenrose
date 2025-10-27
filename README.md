@@ -25,7 +25,7 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 | [Campaign Website](https://github.com/kadenrose/The-Campaign) | Designed and developed responsive multi-page campgain website to improve voter engagement though accessible, user-centered design and interactive features. | HTML, CSS, JavaScript |
 
-| [e-Commerce Website]((https://github.com/tsukidan/OperationBaseCamp)) | Developed functional e-commerce prototype for modern outdoor brand; implemented site interactivity while collaborating with UX team to ensure design accuracy. | HTML, Bootstrap, JavaScript |
+| [e-Commerce Website](https://github.com/tsukidan/OperationBaseCamp) | Developed functional e-commerce prototype for modern outdoor brand; implemented site interactivity while collaborating with UX team to ensure design accuracy. | HTML, Bootstrap, JavaScript |
 <!--| [Project Name](https://github.com/[yourusername]/[repo-name]) | [One-sentence project description.] | [Tech Used] | -->
 
 
