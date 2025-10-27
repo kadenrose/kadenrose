@@ -1,5 +1,3 @@
-<h1>Kaden Rose</h1>
-
 # Hi, I'm Kaden Rose
 
 I'm a Front End Developer who thrives on building clean, accessible, and user-focused websites.  
@@ -25,28 +23,27 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 ## Featured Projects
 
-| [Project Name](https://github.com/[yourusername]/[repo-name]) | [One-sentence project description.] | [Tech Used] |
-| [Project Name](https://github.com/[yourusername]/[repo-name]) | [One-sentence project description.] | [Tech Used] |
+| [Campaign Website](https://github.com/kadenrose/The-Campaign) | Designed and developed responsive multi-page campgain website to improve voter engagement though accessible, user-centered design and interactive features. | HTML, CSS, JavaScript |
+| [e-Commerce Website]([https://github.com/[yourusername]/[repo-name]](https://github.com/tsukidan/OperationBaseCamp)) | Developed functional e-commerce prototype for modern outdoor brand; implemented site interactivity while collaborating with UX team to ensure design accuracy. | HTML, Bootstrap, JavaScript |
 <!--| [Project Name](https://github.com/[yourusername]/[repo-name]) | [One-sentence project description.] | [Tech Used] | -->
 
 
 ---
 
 ## Current Focus
-- [Goal 1, e.g. “Learning React and improving state management”]  
-- [Goal 2, e.g. “Building accessible interfaces for real-world users”]  
-- [Goal 3, e.g. “Expanding my understanding of full-stack workflows”]
+- Becoming proficent in JavaScript
+- Learning React and improving state management  
 
 ---
 
 ## Let’s Connect
--  [Portfolio Website](https://[your-portfolio-link].com)  
--  [LinkedIn](https://linkedin.com/in/[your-linkedin])  
--  [Email Me](mailto:[your.email@example.com])
+<!-- -  [Portfolio Website](https://[your-portfolio-link].com)  -->
+-  [LinkedIn](https://www.linkedin.com/in/kadenrose/)  
+-  [Email Me](mailto:[kaden.db.rose@gmail.com])
 -  [Text Me] (480) 550-0993
 
 ---
 
-> “_[Insert a short personal quote, value, or mission statement — something that reflects your brand]._”
+> “”
 
 ---
