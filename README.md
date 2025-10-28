@@ -39,7 +39,7 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 ## Let’s Connect
 <!-- -  [Portfolio Website](https://[your-portfolio-link].com)  -->
--  [LinkedIn](https://www.linkedin.com/in/kadenrose/)  
+-  [LinkedIn](https://www.linkedin.com/in/kadenrose/) @kadenrose 
 -  [Email Me](mailto:kaden.db.rose@gmail.com) kaden.db.rose@gmail.com
 -  Text Me! (480)550-0993
 
@@ -49,6 +49,17 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 ---
 
-### GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight) 
+## GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kadenrose&show_icons=true&theme=tokyonight) 
+
+---
+
+## Latest Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kadenrose&theme=github-dark&hide_border=true" alt="Activity Graph">
+
+---
+ 
+Last Edited on: Oct 27, 2025
+
 
