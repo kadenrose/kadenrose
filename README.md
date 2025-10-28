@@ -40,7 +40,7 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 ## Let’s Connect
 <!-- -  [Portfolio Website](https://[your-portfolio-link].com)  -->
 -  [LinkedIn](https://www.linkedin.com/in/kadenrose/)  
--  [Email Me](mailto:kaden.db.rose@gmail.com)
+-  [Email Me](mailto:kaden.db.rose@gmail.com) kaden.db.rose@gmail.com
 -  Text Me! (480)550-0993
 
 ---
@@ -48,3 +48,7 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 > “The growing good of the world is partly dependent on unhistoric acts upon the impact of those who live faithfully a hidden life, and rest in unvisited tombs.”
 
 ---
+
+### GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight) 
+
