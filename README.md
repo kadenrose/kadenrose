@@ -16,7 +16,7 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 **Languages:** HTML5, CSS3, JavaScript (ES6+)
 **Frameworks:** & Libraries: Bootstrap 
-**Tools:** GitHub, VS Code, Adobe Creative Cloud] 
+**Tools:** GitHub, VS Code, Adobe Creative Cloud
 <!-- **Workflow:** [e.g. Responsive Design • Version Control • Accessibility-First Development] -->
 
 ---
