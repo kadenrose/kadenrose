@@ -6,8 +6,8 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 ## About Me
 -  Education: Graphic Infromation Technology (Frontend Web Development) at Arizona State University
--  Interests: eCommerce, Wedsite Development, App Development, JavaScript
--  Skills: HTML5, CSS, JavaScript, Aglie, KANBAN, Adobe CC
+-  Interests: eCommerce, Wedsite Development, App Development, JavaScript, LeetCode
+-  Skills: HTML5, CSS, JavaScript, Aglie, KANBAN, Adobe CC, jQuery
 -  Fun Fact: I do my best work early in the morning with a cup of coffee, a clean to-do list, and a clean desk.
 
 ---
@@ -16,7 +16,7 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 **Specialty:** JavaScript (ES6+)
 
-**Frameworks & Libraries:** Bootstrap 
+**Frameworks & Libraries:** Bootstrap, jQuery
 
 **Tools:** GitHub, VS Code, Adobe Creative Cloud
 <!-- **Workflow:** [e.g. Responsive Design • Version Control • Accessibility-First Development] -->
