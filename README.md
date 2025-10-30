@@ -14,7 +14,7 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 ## Tech Stack
 
-**Languages:** HTML5, CSS3, JavaScript (ES6+)
+**Specialty:** JavaScript (ES6+)
 
 **Frameworks & Libraries:** Bootstrap 
 
