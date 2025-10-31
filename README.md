@@ -5,9 +5,9 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 ---
 
 ## About Me
--  Education: Graphic Infromation Technology (Frontend Web Development) at Arizona State University
--  Interests: eCommerce, Wedsite Development, App Development, JavaScript, LeetCode
--  Skills: HTML5, CSS, JavaScript, Aglie, KANBAN, Adobe CC, jQuery
+-  Education: Graphic Information Technology (Frontend Web Development), Arizona State University
+-  Interests: eCommerce, Website Development, App Development, JavaScript, LeetCode
+-  Skills: HTML5, CSS, JavaScript, Agile, KANBAN, Adobe CC, jQuery
 -  Fun Fact: I do my best work early in the morning with a cup of coffee, a clean to-do list, and a clean desk.
 
 ---
@@ -25,7 +25,7 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 ## Featured Projects
 
-| [Campaign Website](https://github.com/kadenrose/The-Campaign) | Designed and developed responsive multi-page campgain website to improve voter engagement though accessible, user-centered design and interactive features. | HTML, CSS, JavaScript |
+| [Campaign Website](https://github.com/kadenrose/The-Campaign) | Designed and developed responsive multi-page campgain website to improve voter engagement through accessible, user-centered design and interactive features. | HTML, CSS, JavaScript |
 
 | [e-Commerce Website](https://github.com/tsukidan/OperationBaseCamp) | Developed functional e-commerce prototype for modern outdoor brand; implemented site interactivity while collaborating with UX team to ensure design accuracy. | HTML, Bootstrap, JavaScript |
 <!--| [Project Name](https://github.com/[yourusername]/[repo-name]) | [One-sentence project description.] | [Tech Used] | -->
@@ -34,16 +34,16 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 ---
 
 ## Current Focus
-- Becoming proficent in JavaScript
-- Learning React and improving state management  
+- Becoming proficent in JavaScript, jQuery
+- Learning React and data structures  
 
 ---
 
 ## Let’s Connect
 <!-- -  [Portfolio Website](https://[your-portfolio-link].com)  -->
--  [LinkedIn](https://www.linkedin.com/in/kadenrose/) @kadenrose 
--  [Email Me](mailto:kaden.db.rose@gmail.com) kaden.db.rose@gmail.com
--  Text Me! (480)550-0993
+-  [LinkedIn](https://www.linkedin.com/in/kadenrose/) — @kadenrose 
+-  [Email Me](mailto:kaden.db.rose@gmail.com) — kaden.db.rose@gmail.com
+-  Phone: (480)550-0993
 
 ---
 
@@ -63,6 +63,6 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 ---
  
-Last Edited on: Oct 27, 2025
+Last Edited on: Oct 31, 2025
 
 
