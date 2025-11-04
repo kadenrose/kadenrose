@@ -52,17 +52,17 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 ---
 
 ## GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kadenrose&show_icons=true&theme=dark) 
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kadenrose&show_icons=true&theme=dark) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadenrose)
 ---
 
-## Latest Activity Graph
+<!-- ## Latest Activity Graph -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadenrose&theme=github-dark&hide_border=true" alt="Activity Graph">
 
 ---
  
-Last Edited on: Nov 3, 2025
+Last Edited on: Nov 4, 2025
 
 
