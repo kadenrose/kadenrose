@@ -62,6 +62,6 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 ---
  
-Last Edited on: Nov 4, 2025
+Last Edited on: Nov 18, 2025
 
 
