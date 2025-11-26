@@ -42,7 +42,7 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 ## Let’s Connect
 <!-- -  [Portfolio Website](https://[your-portfolio-link].com)  -->
 -  [LinkedIn](https://www.linkedin.com/in/kadenrose/) — @kadenrose 
--  [Email Me](mailto:kaden.db.rose@gmail.com) — kaden.db.rose@gmail.com
+<!---  [Email Me](mailto:kaden.db.rose@gmail.com) — kaden.db.rose@gmail.com -->
 
 ---
 
@@ -62,6 +62,6 @@ I'm a Front End Developer who thrives on building clean, accessible, and user-fo
 
 ---
  
-Last Edited on: Nov 25, 2025
+Last Edited on: Nov 26, 2025
 
 
